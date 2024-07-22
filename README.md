@@ -1,5 +1,5 @@
 # KLA-Unhack
-Unhack Practice problem
+Practice problem
 
 ## Problem statement
 - There will be three milestones with varying complexity
